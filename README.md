@@ -36,6 +36,7 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
 <h2>5) Instalação de Firmware e Ambientes de Desenvolvimento (IDE).</h2>
 <blockquote>
   <a href="https://butecoopensource.github.io/nodemcu-lua-para-o-esp8266/">NodeMCU: Lua para o ESP8266.</a><br>
+  <a href="https://esp8266.ru/esplorer/">ESPlorer-Integrated Development Environment (IDE) for ESP8266 developers.</a><br>
   <a href="https://www.arduinoecia.com.br/2018/07/como-instalar-micropython-no-esp8266-nodemcu.html">Como instalar o MicroPython no ESP8266 NodeMCU.</a><br>
   <a href="https://diyprojects.io/upicraft-micropython-ide-dedicated-development-iot-based-esp8266-esp32-microbit-pyboard/#.W6znfvZRfIU">uPiCraft, a MicroPython IDE dedicated to the development of IoT.</a><br>
 </blockquote>
