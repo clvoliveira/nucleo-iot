@@ -40,12 +40,10 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
   <a href="https://diyprojects.io/upicraft-micropython-ide-dedicated-development-iot-based-esp8266-esp32-microbit-pyboard/#.W6znfvZRfIU">uPiCraft, a MicroPython IDE dedicated to the development of IoT.</a><br>
 </blockquote>
 
-<h2>6) Primeiro Projeto.</h2>
+<h2>6) Primeiro Projeto (Pisca-pisca).</h2>
 <blockquote>
   Material necessário: NodeMCU V3 (ESP8266), Led (qualquer cor), Resistor de 220 Ohms, protoboard e cabos para ligação.<br>
   Diagrama de montagem:<br>
   <img width="40%" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nodemcu-pisca-pisca.png"><br>
   Código-fonte em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">LUA</a> e em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.py">MicroPython</a>.
 </blockquote>  
-
-
