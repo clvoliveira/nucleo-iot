@@ -1,5 +1,5 @@
 # nucleo-iot
-<img width="50%" alt="Núcleo de Estudos de IoT da Fatec Bragança Paulista" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nucleo-iot.png">
+<img width="75%" alt="Núcleo de Estudos de IoT da Fatec Bragança Paulista" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nucleo-iot.png">
 Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Internet das Coisas (IoT) através do estudo dirigido e construção de protótipos. As atividades propostas envolvem a pesquisa de dispositivos de hardware, linguagens de programação e front end web.
 <br>
 <h2>1) Introdução: Computação Física, Arduino e Internet das Coisas (IoT).</h2>
@@ -33,16 +33,19 @@ http://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-uma-plataforma-com
   <a href="https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html" target="_new">Getting started with MicroPython on the ESP8266</a><br>
 </blockquote>
 
-<h2>4) Instalação de Firmware e Ambientes de Desenvolvimento (IDE).</h2>
+<h2>5) Instalação de Firmware e Ambientes de Desenvolvimento (IDE).</h2>
 <blockquote>
   <a href="https://butecoopensource.github.io/nodemcu-lua-para-o-esp8266/" target="_new">NodeMCU: Lua para o ESP8266</a><br>
   <a href="https://www.arduinoecia.com.br/2018/07/como-instalar-micropython-no-esp8266-nodemcu.html" target="_new">Como instalar o MicroPython no ESP8266 NodeMCU</a><br>
   <a href="https://diyprojects.io/upicraft-micropython-ide-dedicated-development-iot-based-esp8266-esp32-microbit-pyboard/#.W6znfvZRfIU" target="_new">uPiCraft, a MicroPython IDE dedicated to the development of IoT</a><br>
 </blockquote>
 
-<h2>5) Primeiro Projeto.</h2>
+<h2>6) Primeiro Projeto.</h2>
 <blockquote>
-  
+  Material necessário: NodeMCU V3 (ESP8266), Led (qualquer cor), Resistor de 220 Ohms, protoboard e cabos para ligação.
+  Diagrama de montagem:
+  <img src="https://github.com/clvoliveira/nucleo-iot/blob/master/nodemcu-pisca-pisca.png">
+  Código-fonte em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">LUA</a> e em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">MicroPython</a>
 </blockquote>  
 
 
