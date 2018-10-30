@@ -1,5 +1,5 @@
 # nucleo-iot
-<img width="50" alt="Núcleo de Estudos de IoT da Fatec Bragança Paulista" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nucleo-iot.png">
+<img width="50%" alt="Núcleo de Estudos de IoT da Fatec Bragança Paulista" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nucleo-iot.png">
 Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Internet das Coisas (IoT) através do estudo dirigido e construção de protótipos. As atividades propostas envolvem a pesquisa de dispositivos de hardware, linguagens de programação e front end web.
 <br>
 <h2>1) Introdução: Computação Física, Arduino e Internet das Coisas (IoT).</h2>
