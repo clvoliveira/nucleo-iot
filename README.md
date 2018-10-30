@@ -1,5 +1,5 @@
 # nucleo-iot
-Núcleo de Estudos de IoT da Fatec Bragança Paulista
+<h2>Núcleo de Estudos de IoT da Fatec Bragança Paulista</h2>
 <img src="">
 Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Internet das Coisas (IoT) através do estudo dirigido e construção de protótipos. As atividades propostas envolvem a pesquisa de dispositivos de hardware, linguagens de programação e front end web.
 
@@ -38,6 +38,6 @@ http://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-uma-plataforma-com
 
 <a href="https://micropython.org/" target="_new">MicroPython</a>
 
-<a href=""https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html target="_new">Getting started with MicroPython on the ESP8266</a>
+<a href="https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html" target="_new">Getting started with MicroPython on the ESP8266</a>
 
 
