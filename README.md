@@ -42,10 +42,10 @@ http://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-uma-plataforma-com
 
 <h2>6) Primeiro Projeto.</h2>
 <blockquote>
-  Material necessário: NodeMCU V3 (ESP8266), Led (qualquer cor), Resistor de 220 Ohms, protoboard e cabos para ligação.
+  Material necessário: NodeMCU V3 (ESP8266), Led (qualquer cor), Resistor de 220 Ohms, protoboard e cabos para ligação.<br>
   Diagrama de montagem:
-  <img src="https://github.com/clvoliveira/nucleo-iot/blob/master/nodemcu-pisca-pisca.png">
-  Código-fonte em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">LUA</a> e em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">MicroPython</a>
+  <img width="50%" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nodemcu-pisca-pisca.png"><br>
+  Código-fonte em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.lua">LUA</a> e em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/pisca-pisca.py">MicroPython</a>
 </blockquote>  
 
 
