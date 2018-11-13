@@ -59,5 +59,5 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
 
 <h2>8) Implementando um Servidor Web</h2>
 <blockquote>
-  <a href="https://github.com/nodemcu/nodemcu-firmware#programming-model">A Simple HTTP Server</a> 
+  <a href="https://github.com/nodemcu/nodemcu-firmware#programming-model">A Simple HTTP Server (LUA)</a> 
 </blockquote>
