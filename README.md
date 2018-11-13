@@ -57,7 +57,7 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
   Olá Bootstrap: <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/ola-bootstrap.html">Código-fonte</a>.<br>
 </blockquote>
 
-<h2>8) Implementando um Servidor Web</h2>
+<h2>8) Implementando um Servidor Web.</h2>
 <blockquote>
   <a href="https://github.com/nodemcu/nodemcu-firmware#programming-model">A Simple HTTP Server (LUA)</a> 
 </blockquote>
