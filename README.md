@@ -56,3 +56,8 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
   <a href="https://getbootstrap.com/docs/3.3/getting-started/">Getting started-Bootstrap.</a><br>
   Olá Bootstrap: <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/ola-bootstrap.html">Código-fonte</a>.<br>
 </blockquote>
+
+<h2>8) Implementando um Servidor Web</h2>
+<blockquote>
+  <a href="https://github.com/nodemcu/nodemcu-firmware#programming-model">A Simple HTTP Server</a> 
+</blockquote>
