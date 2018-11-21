@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>NodeMCU IoT</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        $("#on").click(function(){
+          $.ajax({url: "/led/1", success: function(result){
+            $('#on').removeClass('btn-success').addClass('btn-default');
+            $('#off').removeClass('btn-default').addClass('btn-danger');
+          }});
+        });
+        
+        $("#off").click(function(){
+          $.ajax({url: "/led/0", success: function(result){
+            $('#on').removeClass('btn-default').addClass('btn-success');
+            $('#off').removeClass('btn-danger').addClass('btn-default');
+          }});
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>NodeMCU IoT</h1>
+      Controle do LED conectado ao Pino D0 (GPIO16):<br /><br /> 
+      <div class="btn-group">
+        <button id="on" type="button" class="btn btn-success btn-lg">Acender</button><br><br>
+        <button id="off" type="button" class="btn btn-default btn-lg">Apagar</button>
+      </div>
+    </div>
+  </body>
+</html>
+
