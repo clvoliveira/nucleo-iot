@@ -62,3 +62,12 @@ Núcleo de Estudos Multidisciplinar com o intuito de pesquisar conceitos da Inte
   <a href="https://github.com/nodemcu/nodemcu-firmware#programming-model">A Simple HTTP Server (LUA).</a> <br>
   <a href="https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/">ESP32/ESP8266 MicroPython Web Server – Control Outputs.</a><br>
 </blockquote>
+
+<h2>9) Controle de um LED através de uma Aplicação Web.</h2>
+<blockquote>
+  Material necessário: NodeMCU V3 (ESP8266), Led (qualquer cor), Resistor de 220 Ohms, protoboard e cabos para ligação.<br>
+  Diagrama de montagem:<br>
+  <img width="40%" src="https://github.com/clvoliveira/nucleo-iot/blob/master/nodemcu-pisca-pisca.png"><br>
+  <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/http-led-bootstrap.html">Página/Conteúdo HTML.</a><br>
+  Código-fonte em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/http-led.lua">LUA</a> e em <a href="https://github.com/clvoliveira/nucleo-iot/blob/master/http-led.py">MicroPython</a>.
+</blockquote>
